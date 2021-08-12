@@ -1,1 +1,1 @@
-This is a simple accelerator which only contains README.md.
+Hi, this is a simple accelerator which only contains README.md. 
